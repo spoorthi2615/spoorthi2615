@@ -77,24 +77,33 @@
 
 ### 📂 Featured Projects
 
-**Smart Leads Dashboard**
-* A secure MERN-based dashboard for managing business leads with JWT authentication, RBAC, analytics, filtering, and secure REST APIs.
+**Hackshield** *(2026)*
+* Developed an autonomous multi-agent cybersecurity tool in Python to orchestrate vulnerability scanning across 3 concurrent services.
+* Integrated GPT-4o and Claude 3.5 Sonnet to map dependency task graphs and coordinate 3 specialized scanner agents (SQLi, XSS, BOLA).
+* Containerized the 3-tier architecture (Vite frontend, Flask backend, and vulnerable target) using Docker Compose for secure, multi-environment deployment.
 
-**Safe QR**
-* A QR security application that detects malicious payloads and helps prevent phishing and QR-based attacks.
+**Smart Leads Dashboard** *(2026)*
+* Developed a secure MERN stack dashboard (React, Node.js, Express, MongoDB, TypeScript) enforcing Role-Based Access Control (RBAC) with 2 user tiers (Admin and Sales).
+* Hardened 15+ REST API endpoints using Zod validation, Helmet security headers, request sanitization, and rate limits of 100 requests per 15 minutes.
+* Engineered 4 complex MongoDB aggregation pipelines to compile analytics and built a custom module for filter-aware CSV data export.
 
-**Secure Media Container (SMC)**
-*•Built a Python cryptographic desktop application utilizing PyNaCl to securely package, sign, 
-and encrypt files of any format or size.
-•Implemented Ed25519 signatures and XChaCha20-Poly1305 encryption with 256-bit keys 
-derived via scrypt KDF to guarantee 100% data integrity.
-•Designed a Tkinter GUI featuring key management that processes drag-and-drop files and 
-runs verification checks in under 1 second.
+**Safe QR** *(11/2025)*
+* Created a Flask web application that scans and evaluates QR codes and URLs for phishing threats by analyzing 5+ domain and string parameters.
+* Integrated live webcam scanning running at 30 FPS to capture, decode, and extract URLs instantly in secure HTTPS contexts.
+* Built session-based user authentication and database logging supporting CSV export of 1,000+ scan history records.
+
+**Secure Media Container (SMC)** *(09/2025)*
+* Built a Python cryptographic desktop application utilizing PyNaCl to securely package, sign, and encrypt files of any format or size.
+* Implemented Ed25519 signatures and XChaCha20-Poly1305 encryption with 256-bit keys derived via scrypt KDF to guarantee 100% data integrity.
+* Designed a Tkinter GUI featuring key management that processes drag-and-drop files and runs verification checks in under 1 second.
 <br>
 
 <p align="left">
-  <a href="https://github.com/spoorthi2615/SafeQR">
-    <img src="https://github-readme-repo-card.vercel.app/pin?name=spoorthi2615/SafeQR&theme=dark" />
+  <a href="https://github.com/spoorthi2615/Hackshield" target="_blank">
+    <img src="https://github-readme-repo-card.vercel.app/pin?name=spoorthi2615/Hackshield&theme=dark" alt="Hackshield" />
+  </a>
+  <a href="https://github.com/spoorthi2615/SafeQR" target="_blank">
+    <img src="https://github-readme-repo-card.vercel.app/pin?name=spoorthi2615/SafeQR&theme=dark" alt="SafeQR" />
   </a>
 </p>
 
