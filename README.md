@@ -84,8 +84,12 @@
 * A QR security application that detects malicious payloads and helps prevent phishing and QR-based attacks.
 
 **Secure Media Container (SMC)**
-* A secure media handling system using isolation techniques and protected upload mechanisms to prevent malicious file execution.
-
+*•Built a Python cryptographic desktop application utilizing PyNaCl to securely package, sign, 
+and encrypt files of any format or size.
+•Implemented Ed25519 signatures and XChaCha20-Poly1305 encryption with 256-bit keys 
+derived via scrypt KDF to guarantee 100% data integrity.
+•Designed a Tkinter GUI featuring key management that processes drag-and-drop files and 
+runs verification checks in under 1 second.
 <br>
 
 <p align="left">
