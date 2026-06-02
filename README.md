@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Cybersecurity Specialist | 💻 MERN Stack Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00FF9D&center=true&vCenter=true&lines=Cybersecurity+%26+Web+Security+Enthusiast;MERN+Stack+Developer;Ethical+Hacker+%26+Penetration+Tester;;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00FF9D&center=true&vCenter=true&lines=Cybersecurity+and+Web+Security+Enthusiast;MERN+Stack+Developer;Ethical+Hacker+and+Penetration+Tester;;Always+Learning+New+Things" />
 </p>
 
 ---
