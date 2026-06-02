@@ -127,7 +127,7 @@
 ---
 
 ### 👀 Profile Views
-![Moe Counter](https://count.getloli.com/get/@spoorthi2615?theme=booru-r6gdrawfriends)
+![Moe Counter](https://count.getloli.com/get/@spoorthi2615?theme=booru-vivi)
 
 ### 🏆 GitHub Trophies
 ![Trophies](https://github-trophies.vercel.app/?username=spoorthi2615&theme=dracula&column=7&margin-w=15)
