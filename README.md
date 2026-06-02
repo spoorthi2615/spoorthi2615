@@ -1,129 +1,167 @@
 <div align="center">
-  <h1>Hi, I'm Spoorthi 👋</h1>
+
+  # 🔮 SPOORTHI YADAV
   
   <a href="https://github.com/spoorthi2615">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Full-Stack+Enthusiast;B.Tech+CS+(Cybersecurity)+Student;Ethical+Hacker+%26+Penetration+Tester;Secure+System+Designer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&width=750&lines=root%40spoorthi%3A~%23+whoami;B.Tech+CS+(Cybersecurity)+Student;root%40spoorthi%3A~%23+nmap+-sV+localhost;React.js+%7C+Node.js+%7C+MongoDB+%7C+Python;root%40spoorthi%3A~%23+cat+status.log;Active%3A+Defending+systems+%26+building+secure+apps;root%40spoorthi%3A~%23+ping+-c+1+ctf;3rd+Place+%40+Cybersiege+CTF+2026" alt="Typing SVG" />
   </a>
 
   <br>
 
-  <b>B.Tech student in Computer Science (Cybersecurity) at NMAMIT, Nitte University</b><br>
-  Passionate about Ethical Hacking, Web Security, Penetration Testing, and Full-Stack Development.<br>
-  Actively exploring secure system design and bug bounty programs.
+  <p align="center">
+    <a href="https://www.linkedin.com/in/spoorthiyadav" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-121214?style=flat-square&logo=linkedin&logoColor=00FF9D" alt="LinkedIn"/></a>
+    <a href="mailto:spoorthipyadav@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-121214?style=flat-square&logo=gmail&logoColor=00FF9D" alt="Email"/></a>
+    <a href="https://github.com/spoorthi2615" target="_blank"><img src="https://img.shields.io/badge/GitHub-121214?style=flat-square&logo=github&logoColor=00FF9D" alt="GitHub"/></a>
+  </p>
 
+  <img src="https://komarev.com/ghpvc/?username=spoorthi2615&label=SYSTEM%20ACCESSES&color=00FF9D&style=flat-square" alt="Profile Views" />
+
+</div>
+
+<br>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📟 SYSTEM_DIAGNOSTICS.log</h3>
+      <ul>
+        <li><b>Node ID:</b> Spoorthi Yadav (CS Cybersecurity Specialist)</li>
+        <li><b>Affiliation:</b> B.Tech in CS (Cybersecurity) @ NMAMIT, Nitte University</li>
+        <li><b>Core Directives:</b> Web Security (VAPT), Bug Bounty, Full-Stack Design</li>
+        <li><b>Host OS:</b> Linux (Kali) / Windows</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 SECURE_OBJECTIVES.sh</h3>
+      <ul>
+        <li>🛡️ Infusing security deep into full-stack application logic.</li>
+        <li>🔍 Exploring API protection schemes and secure session handling.</li>
+        <li>🎯 Auditing systems for OWASP Top 10 vulnerabilities.</li>
+        <li>🤝 Open to collaborations on CTFs, security audits, and backend APIs.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🗂️ SECURE_SYSTEM_TREE
+
+```bash
+$ tree /home/spoorthi/stack -N
+/home/spoorthi/stack
+├── cybersecurity
+│   ├── testing_environments/   # Kali Linux
+│   ├── auditing_tools/         # Burp Suite, Nmap, Wireshark, Metasploit
+│   └── threat_vectors/         # OWASP Top 10, SQLi, XSS, Active Directory
+├── web_development
+│   ├── frontend/               # React.js, TypeScript, JS, HTML5, CSS3
+│   ├── backend/                # Node.js, MongoDB, REST APIs, Secure JWT
+│   └── operations/             # Docker, Linux, Azure, Postman, Git
+└── credentials
+    ├── ctf/                    # 3rd @ Cybersiege 2026 CTF
+    └── training/               # NPTEL Systems & Usable Security, Azure Challenge
+```
+
+---
+
+## 🛡️ SECURE_SYSTEMS_ARSENAL (Cybersecurity & Tools)
+
+| Category | Tactical Tools & Vulnerabilities |
+| :--- | :--- |
+| **Offensive & Auditing** | <img src="https://img.shields.io/badge/Kali_Linux-121214?style=flat-square&logo=kali-linux&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/Burp_Suite-121214?style=flat-square&logo=portswigger&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/Nmap-121214?style=flat-square&logo=nmap&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/Wireshark-121214?style=flat-square&logo=wireshark&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/Metasploit-121214?style=flat-square&logo=metasploit&logoColor=00FF9D" /> |
+| **Methodologies & Focus** | <img src="https://img.shields.io/badge/OWASP_Top_10-121214?style=flat-square&logo=owasp&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/SQL_Injection-121214?style=flat-square&logo=security&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/XSS_Exploits-121214?style=flat-square&logo=security&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/Active_Directory-121214?style=flat-square&logo=microsoft&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/Bug_Bounty-121214?style=flat-square&logo=hackerone&logoColor=00FF9D" /> |
+
+---
+
+## 💻 FULL_STACK_ENGINE (Development Stack)
+
+| Layer | Technologies & Deployments |
+| :--- | :--- |
+| **Frontend** | <img src="https://img.shields.io/badge/React.js-121214?style=flat-square&logo=react&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/TypeScript-121214?style=flat-square&logo=typescript&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/JavaScript-121214?style=flat-square&logo=javascript&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/HTML5-121214?style=flat-square&logo=html5&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/CSS3-121214?style=flat-square&logo=css3&logoColor=00FF9D" /> |
+| **Backend & Db** | <img src="https://img.shields.io/badge/Node.js-121214?style=flat-square&logo=nodedotjs&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/MongoDB-121214?style=flat-square&logo=mongodb&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/REST_APIs-121214?style=flat-square&logo=routing&logoColor=00FF9D" /> |
+| **Languages & Tools** | <img src="https://img.shields.io/badge/Python-121214?style=flat-square&logo=python&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/SQL-121214?style=flat-square&logo=postgresql&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/Docker-121214?style=flat-square&logo=docker&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/Postman-121214?style=flat-square&logo=postman&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/Linux-121214?style=flat-square&logo=linux&logoColor=00FF9D" /> <img src="https://img.shields.io/badge/Azure-121214?style=flat-square&logo=microsoftazure&logoColor=00FF9D" /> |
+
+---
+
+## 📂 SECURE_MODULES (Featured Projects)
+
+```bash
+$ cat projects_telemetry.json
+```
+```json
+[
+  {
+    "project_name": "Smart Leads Dashboard",
+    "architecture": "MERN Stack (React, Node, Express, MongoDB)",
+    "security_protocols": ["JWT Authenticated Session Management", "Role-Based Access Control (RBAC)", "Secure REST APIs"],
+    "status": "DEPLOYED [SECURED]"
+  },
+  {
+    "project_name": "Safe QR",
+    "architecture": "Python & JS Web Frameworks",
+    "security_protocols": ["Phishing Payload Pre-Check", "Malicious Link Sanitization", "Anti-QRishing Mechanisms"],
+    "status": "OPERATIONAL [SECURED]"
+  },
+  {
+    "project_name": "Secure Media Container (SMC)",
+    "architecture": "Docker Isolation & Node.js Backend",
+    "security_protocols": ["Sandboxed Sandbox File Exec Prevention", "Upload Payload Filtering", "Containerized Storage Isolation"],
+    "status": "STABLE [ISOLATED]"
+  }
+]
+```
+
+---
+
+## 🏆 SECURE_LOG_SYS (Achievements & Credentials)
+
+```bash
+$ ./get_credentials.sh --active
+```
+```log
+[+] CTF Competition: 3rd Place — Cybersiege 2026 CTF
+[+] Cloud Learning: Microsoft Azure Learning Challenge 2025
+[+] Certification: NPTEL Certified — Systems and Usable Security
+[+] Leadership: Conducted Cybersecurity Awareness Sessions via PROTON NMAMIT
+```
+
+---
+
+## 📊 SYSTEM_TELEMETRY (GitHub Analytics)
+
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=spoorthi2615&show_icons=true&title_color=00FF9D&icon_color=00FF9D&text_color=FFFFFF&bg_color=0C1020&hide_border=true" alt="GitHub Stats" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=spoorthi2615&theme=dark&background=0C1020&ring=00FF9D&fire=00FF9D&currStreakLabel=00FF9D&sideLabels=FFFFFF&dates=B3B9C5&hide_border=true" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spoorthi2615&bg_color=0C1020&color=00FF9D&line=00FF9D&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="95%" />
+</div>
+
+---
+
+<details>
+  <summary><b>🔓 [CLICK TO DECRYPT SECURE_DATA.DAT]</b></summary>
   <br>
-
-  <a href="https://www.linkedin.com/in/spoorthiyadav"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:spoorthipyadav@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/spoorthi2615"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-  <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=spoorthi2615&label=Profile%20Views&color=00FF9D&style=flat-square" alt="Profile Views" />
-</div>
-
-<br>
-
-<h2>About Me</h2>
-
-<ul>
-  <li>🔐 <b>Cybersecurity & Web Development Enthusiast</b> blending secure coding practices with modern web technologies.</li>
-  <li>💻 <b>MERN Stack Developer</b> building robust applications with a strong focus on functionality and defensive measures.</li>
-  <li>🎯 <b>Areas of Interest</b> include VAPT, secure APIs, offensive security, and scalable web apps.</li>
-  <li>🤝 <b>Open to Collaboration</b> on security research, open-source projects, and CTF challenges.</li>
-</ul>
-
-<br>
-
-<h2>Cybersecurity Arsenal</h2>
-
-<h3>Tools & Platforms</h3>
-<p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-EE2B29?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-1F1F1F?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-</p>
-
-<h3>Vulnerabilities & Methodologies</h3>
-<p>
-  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Injection-FF0000?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/XSS-FF9900?style=for-the-badge&logo=security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bug_Bounty-8E24AA?style=for-the-badge" />
-</p>
-
-<br>
-
-<h2>Tech Stack</h2>
-
-<b>Frontend:</b><br>
-<img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<br><br>
-
-<b>Backend & Database:</b><br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=routing&logoColor=white" />
-<br><br>
-
-<b>Languages & Tools:</b><br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-
-<br><br>
-
-<h2>Featured Projects</h2>
-
-<h3>Smart Leads Dashboard</h3>
-A secure MERN-based dashboard for managing business leads with JWT authentication, RBAC, analytics, filtering, and secure REST APIs.
-
-<br>
-
-<h3>Safe QR</h3>
-A QR security application that detects malicious payloads and helps prevent phishing and QR-based attacks.
-
-<br>
-
-<h3>Secure Media Container (SMC)</h3>
-A secure media handling system using isolation techniques and protected upload mechanisms to prevent malicious file execution.
-
-<br><br>
-
-<h2>Achievements & Certifications</h2>
-
-<ul>
-  <li><b>3rd Place</b> — Cybersiege 2026 CTF Competition</li>
-  <li><b>Microsoft Azure Learning Challenge 2025</b></li>
-  <li><b>NPTEL Certified</b> — Systems and Usable Security</li>
-  <li>Conducted Cybersecurity Awareness Sessions through <b>PROTON NMAMIT</b></li>
-</ul>
-
-<br>
-
-<h2>GitHub Analytics</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spoorthi2615&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spoorthi2615&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
   
-  <br><br>
+  ```bash
+  $ gpg --decrypt secure_data.dat.gpg
+  gpg: AES256.GCM encrypted data
+  gpg: Signature made Tue Jun  2 09:30:18 2026
+  gpg: Good signature from "Spoorthi <spoorthipyadav@gmail.com>" [ultimate]
+  ```
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spoorthi2615&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
-</div>
-
-<br><br>
-
-<div align="center">
-  <i>Always learning, building, and securing the digital world 🚀</i>
-</div>
+  ### 📂 Extracted Contents
+  * **Interests:** Cryptography, Malware Analysis, Reverse Engineering, API Design.
+  * **Hobbies:** Solving CTFs (Jeopardy & Attack-Defense), Exploring Linux kernels, Writing secure microservices.
+  * **Status:** Always open for technical chats, team ups for CTFs, and secure app building.
+</details>
